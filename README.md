@@ -1,6 +1,6 @@
 Seja bem-vindo(a)!!!
 
-Desde junho de 2022 desenvolvo projeto com a Receita Federal, em sua Regional do Sul de Minas, para a descaracterização de aparelhos de TV Box ilegais na busca de produtos mais úteis para a sociedade evitando a sua disposição como lixo eletrônico com impactos significativos ao Meio Ambiente. As atividades contam com o apoio do Prof. Osvaldo Adilson Carvalho Júnior, do Prof. Marlus Pinheiro Rolemberg e do discente José Lúcio Zancan Júnior.
+Desde junho de 2022 desenvolvemos projeto com a Receita Federal, em sua Regional do Sul de Minas, para a descaracterização de aparelhos de TV Box ilegais na busca de produtos mais úteis para a sociedade evitando a sua disposição como lixo eletrônico com impactos significativos ao Meio Ambiente. As atividades contam com o apoio do Prof. Osvaldo Adilson Carvalho Júnior, do Prof. Marlus Pinheiro Rolemberg e do discente José Lúcio Zancan Júnior.
 
 A abordagem inicial que utilizamos é a determinação das capacidades dos equipamentos apreendidos, para posterior avaliação em diferentes aplicações, como educação infantil, desktop e sinalização digital. Outras aplicações estão sendo avaliadas e estarão disponíveis assim que devidamente estabelecidas.
 
