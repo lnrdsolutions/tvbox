@@ -11,7 +11,7 @@ Para saber mais, navegue nas opções abaixo:
   - BTV 11.
   - HTV 6+.
   - HTV 7.
-- [Personalizando a sua TV Box](https://github.com/lnrddev/tvbox/blob/main/personalizacao.md).
+- [Personalizando a sua TV Box](https://github.com/lnrddev/tvbox/blob/main/roteiros/personalizacao.md).
 
 Este espaço está em constante atualização. Volte sempre para conferir as novidades do desenvolvimento do projeto.
 
