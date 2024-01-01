@@ -2,7 +2,7 @@ Seja bem-vindo(a)!!!
 
 Página no projeto de Extensão do **Prof. Leonardo Henrique Soares Damasceno** na [Universidade Federal de Alfenas - *Campus* Poços de Caldas](http://www.unifal-mg.edu.br/pocosdecaldas) que descaracteriza aparelhos de TV Box ilegais apreendidas pela Receita Federal do Brasil transformando-os em mini-computadores.
 
-As atividades são desenvolvidas com o apoio do Prof. Osvaldo Adilson Carvalho Júnior, do Prof. Marlus Pinheiro Rolelberg e do discente José Lúcio Zancan Júnior.
+As atividades são desenvolvidas com o apoio do Prof. Osvaldo Adilson Carvalho Júnior, do Prof. Marlus Pinheiro Rolemberg e do discente José Lúcio Zancan Júnior.
 
 Para saber mais, navegue nas opções abaixo:
 
