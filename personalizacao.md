@@ -1,11 +1,11 @@
-**Alertas**
+# **Alertas**
 
 1. Estes protocolos foram testados em várias unidades sem nenhuma ocorrência negativa. Leia-os completamente antes de realizar qualquer procedimento para que não haja qualquer dúvida a respeito.
 2. Há o risco eventual de travamento e/ou perda da sua TV Box caso haja algum problema mais severo. Use por seu próprio risco. Não me responsabilizo por nenhum dano.
 
-**Roteiros**
+# **Roteiros**
 
-<u>Configurando o teclado</u>
+## Configurando o teclado
 
 1. Para configurar o teclado, digite o comando **sudo armbian-config** (pode ser necessário fornecer a sua senha de usuário comum). Escolha **Personal**, **Keyboard**. Em seguida, escolha as configurações mais adequadas ao equipamentos que será utilizado.
 
