@@ -22,7 +22,7 @@ Para saber mais, navegue nas opções abaixo:
 Prof. Leonardo Henrique Soares Damasceno
 
 [![name](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/553597686099)
-![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+[![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 
 
 
