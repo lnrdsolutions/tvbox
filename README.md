@@ -1,6 +1,6 @@
 Seja bem-vindo(a)!!!
 
-Desde junho de 2022 desenvolvemos projeto de extensão com a Receita Federal do Brasil (RFB), em sua Regional do Sul de Minas, para a descaracterização de aparelhos de TV Box ilegais na busca de produtos mais úteis para a sociedade evitando a sua disposição como lixo eletrônico com impactos significativos ao Meio Ambiente. As atividades contam com o apoio do Prof. Osvaldo Adilson Carvalho Júnior, do Prof. Marlus Pinheiro Rolemberg e do discente José Lúcio Zancan Júnior.
+Desde junho de 2022 desenvolvemos projeto de extensão com a Receita Federal do Brasil (RFB), em sua Regional do Sul de Minas, para a descaracterização de aparelhos de TV Box ilegais na busca de produtos mais úteis para a sociedade evitando a sua disposição como lixo eletrônico com impactos significativos ao Meio Ambiente. As atividades contam com o apoio do Prof. Osvaldo Adilson Carvalho Júnior, do Prof. Marlus Pinheiro Rolemberg e do discente José Lúcio Zancan Júnior. Todos envolvidos estão ligados à Universidade Federal de Alfenas, no Campus Poços de Caldas (MG).
 
 O projeto está inserido no Programa Além do Horizonte, da Receita Federal, que participa da destinação sustentável de produtos apreendidos pela Instituição. Neste programa, há diferentes ações da RFB para reaproveitamentos de itens como TV Box, vestuários e cigarros que, após a devida descaracterização, são destinados de forma ambientalmente mais sustentável diferindo do produto original fruto de cada apreensão. Especificamente neste projeto, participamos de uma rede com diferentes Instituições de Ensino voltadas ao emprego de TV Box como computadores em escolas públicas, embora haja potencial para diferentes aplicações. O fluxograma utilizado é apresentado na Figura 1.
 
@@ -12,11 +12,11 @@ Figura 1. Fluxograma do projeto para descaracterização de TV Box para escolas 
 
 
 
-A abordagem inicial que utilizamos é a determinação das capacidades dos equipamentos apreendidos, para posterior avaliação em diferentes aplicações, como educação infantil, desktop e sinalização digital. Outras aplicações estão sendo avaliadas e estarão disponíveis assim que devidamente estabelecidas.
+A abordagem inicial que utilizamos é a determinação das capacidades dos equipamentos apreendidos, para posterior avaliação em diferentes aplicações, como educação, ensino de programação, uso como desktop e sinalização digital. Outras aplicações estão sendo avaliadas e estarão disponíveis assim que devidamente estabelecidas.
 
-Os processadores utilizados em aparelhos de TV Box empregam a arquitetura ARM na sua concepção, diferindo substancialmente dos outros processadores que utilizamos no nosso dia a dia. O sistema Armbian utiliza o Debian como plataforma base mas, como utiliza também a arquitetura ARM, pode ser avaliado para aplicações que desejamos com os aparelhos de TV Box. O desafio aqui é determinar uma distribuição adequada para cada configuração de TV Box pois, diferentemente dos equipamentos que utilizamos como notebooks e desktops, não há padronização nas diferentes configurações dos equipamentos que estão em avaliação.
+Os processadores utilizados em aparelhos de TV Box empregam a arquitetura ARM na sua concepção, diferindo substancialmente da maioria dos processadores que utilizamos no nosso dia a dia. O sistema Armbian utiliza o Debian como plataforma base mas para a arquitetura ARM. O desafio aqui é determinar uma distribuição adequada para cada configuração de TV Box pois, diferentemente dos equipamentos que utilizamos como notebooks e desktops, não há padronização nas diferentes configurações dos equipamentos que estão em avaliação.
 
-Na medida em que obtivermos sucesso para as diferentes configurações de equipamentos, faremos a devida divulgação dos roteiros de instalação para que a proposta possa ser replicada em maior escala. Para qualquer dúvida, estamos à disposição no e-mail leonardo.damasceno at unifal-mg.edu.br.
+Na medida em que obtivermos sucesso para as diferentes configurações de equipamentos, faremos a devida divulgação dos roteiros de instalação para que a proposta possa ser replicada em maior escala. Já efetuamos, até o presente momento, a entrega de aproximadamente 1500 unidades para Poços de Caldas (MG) e região, Alfenas (MG) e região, Frutal (MG) e Governador Valadares (MG), além de dar o devido apoio às demais Instituições de Ensino envolvidas. Atualmente estamos descaracterizando centenas de unidades para o estado de Tocantis, visto o enorme potencial e demanda de equipamentos de TI no território brasileiro, notadamente em Instituições Públicas de ensino. Para qualquer dúvida, estamos à disposição no e-mail leonardo.damasceno at unifal-mg.edu.br. 
 
 Esta página estará em constante atualização, portanto, recomendo retornar sempre que possível para busca de novidades sobre o projeto.
 
@@ -33,8 +33,6 @@ Prof. Leonardo Henrique Soares Damasceno
 
 [![name](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/553597686099)
 [![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
-
-
 
 
 
