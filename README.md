@@ -28,6 +28,7 @@ Para saber mais, navegue nas opções abaixo:
   - HTV 6+.
   - HTV 7.
 - [Personalizando a sua TV Box](https://github.com/lnrddev/tvbox/blob/main/roteiros/personalizacao.md).
+- Divulgação do projeto.
 
 Prof. Leonardo Henrique Soares Damasceno
 
