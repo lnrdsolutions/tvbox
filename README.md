@@ -1,6 +1,6 @@
 ![banner](https://github.com/lnrddev/tvbox/blob/main/images/banner_lnrd_tvbox.png?raw=true)
 
-Seja bem-vindo(a)!!!
+# Seja bem-vindo(a)!!! 👋
 
 Desde junho de 2022 desenvolvemos projeto de extensão com a Receita Federal do Brasil (RFB), em sua Regional do Sul de Minas, para a descaracterização de aparelhos de TV Box ilegais na busca de produtos mais úteis para a sociedade evitando a sua disposição como lixo eletrônico com impactos significativos ao Meio Ambiente. As atividades contam com o apoio do Prof. Osvaldo Adilson Carvalho Júnior, do Prof. Marlus Pinheiro Rolemberg e do discente José Lúcio Zancan Júnior. Todos envolvidos estão ligados à Universidade Federal de Alfenas, no Campus Poços de Caldas (MG).
 
