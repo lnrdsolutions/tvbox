@@ -4,7 +4,7 @@
 2. Há o risco eventual de travamento e/ou perda da sua TV Box caso haja algum problema mais severo. Use por seu próprio risco. Não me responsabilizo por nenhum dano.
 3. Se o Armbian estiver instalado no seu pendrive ou cartão de memória, faz-se necessário aumentar o tamanho da partição de instalação para que seja possível baixar e instalar todos os aplicativos. Sugere-se o uso do Gparted em ambiente Linux para maior facilidade. Se estiver trabalhando diretamente na sua TV Box após a instalação, isto não se faz necessário.
 
-# **Roteiros**
+# **Roteiro - Instalação como estação de trabalho (workstation)**
 
 ## Instalação do ambiente gráfico XFCE
 
