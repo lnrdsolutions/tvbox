@@ -14,4 +14,4 @@
 
 ## Instalação do LibreOffice e pacotes adicionais para maior usabilidade
 
-`sudo apt install thunar-volman gvfs policykit-1 xfce4-screenshooter file-roller qpdfview ristretto libreoffice-writer libreoffice-calc libreoffice-impress ttf-mscorefonts-installer catfish thunar-archive-plugin menulibre gnome-terminal`
+`sudo apt install thunar-volman gvfs policykit-1 xfce4-screenshooter file-roller qpdfview ristretto libreoffice-writer libreoffice-calc libreoffice-impress ttf-mscorefonts-installer catfish thunar-archive-plugin menulibre gnome-terminal xfce4-statusnotifier-plugin network-manager-gnome`
