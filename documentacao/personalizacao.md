@@ -12,7 +12,7 @@
 ## Configurando o LightDM para iniciar automaticamente no usuário comum
 
 1. Vamos supor que o usuário comum definido na instalação seja **tvboxreceita**. A cada reinício da TV Box faz-se necessário fornecer o nome do usuário, **tvboxreceita**, e a sua senha. Contudo, com essa senha torna-se possível realizar alterações no sistema de acordo com as configurações atuais. Qual a solução? Optamos por iniciar automaticamente no usuário padrão sem a necessidade de acesso à senha para os discentes das escolas atendidas.
-2. No prompt do Terminal, execute **sudo nano /etc/lightdm/lightdm.conf** (pode ser necessário fornecer a sua senha de usuário comum).
+2. No prompt do Terminal, execute `sudo nano /etc/lightdm/lightdm.conf`.
 3. Busque as linhas a seguir e altere-as de forma a ficar conforme descrito abaixo:
    - [SeatDefaults]
    - autologin-user=**tvboxreceita**
