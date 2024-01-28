@@ -6,7 +6,7 @@
 
 # **Roteiro - Instalação como estação de trabalho (workstation)**
 
-## Ambiente gráfico XFCE
+## Ambiente gráfico Mate
 
 `sudo apt install task-mate-desktop lightdm-gtk-greeter`
 
