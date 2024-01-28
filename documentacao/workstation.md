@@ -14,7 +14,7 @@
 
 ## Navegador Chromium
 
-`sudo snap install chromium chromium-l10n`
+`sudo apt install chromium chromium-l10n`
 
 ## LibreOffice e pacotes adicionais para maior usabilidade
 
