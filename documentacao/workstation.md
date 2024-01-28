@@ -8,19 +8,15 @@
 
 ## Ambiente gráfico XFCE
 
-`sudo apt install task-xfce-desktop lightdm-gtk-greeter`
+`sudo apt install task-mate-desktop lightdm-gtk-greeter`
 
 *Observação: o pacote lightdm-gtk-greeter é necessário para que o sistema inicie corretamente após o reinício.*
 
 ## Navegador Chromium
 
-`sudo apt install snap`
-
-`sudo snap install chromium`
-
-*Observação: a instalação pelo snap mostrou ser mais adequada a ambos os sistemas baseados no Debian e no Ubuntu por problemas de quebra de referências de instalação dos pacotes.*
+`sudo snap install chromium chromium-l10n`
 
 ## LibreOffice e pacotes adicionais para maior usabilidade
 
-`sudo apt install thunar-volman gvfs policykit-1 xfce4-screenshooter file-roller qpdfview ristretto libreoffice-writer libreoffice-calc libreoffice-impress ttf-mscorefonts-installer catfish thunar-archive-plugin menulibre gnome-terminal xfce4-statusnotifier-plugin network-manager-gnome blackbird-gtk-theme`
+`sudo apt install gvfs policykit-1 libreoffice-writer libreoffice-calc libreoffice-impress libreoffice-l10n-pt-br libreoffice-help-pt-br ttf-mscorefonts-installer network-manager-gnome caja pluma eom atril engrampa`
 
