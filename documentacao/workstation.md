@@ -18,5 +18,5 @@
 
 ## LibreOffice e pacotes adicionais para maior usabilidade
 
-`sudo apt install gvfs policykit-1 libreoffice-writer libreoffice-calc libreoffice-impress libreoffice-l10n-pt-br libreoffice-help-pt-br ttf-mscorefonts-installer network-manager-gnome caja pluma eom atril engrampa`
+`sudo apt install gvfs policykit-1 libreoffice-writer libreoffice-calc libreoffice-impress libreoffice-l10n-pt-br libreoffice-help-pt-br ttf-mscorefonts-installer network-manager-gnome caja pluma eom atril engrampa mate-utils mate-calc mate-screensaver`
 
