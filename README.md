@@ -24,7 +24,9 @@ Esta página estará em constante atualização, portanto, recomendo retornar se
 
 Para saber mais, navegue nas opções abaixo:
 
-- Características das TV Box já descaracterizadas
+- TV Box descaracterizadas
+
+*Processadores Amlogic*
 
 | Modelo         | Processador                  | GPU      | RAM  | Disco | Wifi         | Áudio HDMI |
 | -------------- | ---------------------------- | -------- | ---- | ----- | ------------ | :--------: |
