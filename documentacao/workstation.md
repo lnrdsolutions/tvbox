@@ -20,3 +20,41 @@
 
 `sudo apt install gvfs policykit-1 libreoffice-writer libreoffice-calc libreoffice-impress libreoffice-l10n-pt-br libreoffice-help-pt-br ttf-mscorefonts-installer network-manager-gnome caja pluma eom atril engrampa mate-utils mate-calc mate-screensaver mate-media mate-tweak dconf-editor`
 
+## Drivers gráficos e acessórios
+
+`sudo apt install gstreamer1.0-plugins-base-apps gstreamer1.0-plugins-bad gstreamer1.0-plugins-good libavcodec-extra libavcodec-extra59 gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly mpv vlc`
+
+## Arquivo xorg.conf
+
+Para ativar o driver Mesa/Lima, alterar o arquivo /etc/X11/xorg.conf inserindo as informações a seguir.
+
+'Section "ServerFlags"
+
+       Option  "AutoAddGPU" "off"
+       
+       Option "Debug" "dmabuf_capable"
+       
+EndSection
+
+Section "OutputClass"
+
+       Identifier "Lima"
+       
+       MatchDriver "<display DRM driver>"
+       
+       Driver "modesetting"
+       
+       Option "PrimaryGPU" "true"
+       
+EndSection'
+
+Você deve substituir <display DRM driver> com seu respectivo driver, a depender de seu SoC:
+
+* Allwinner: sun4i-drm
+* Amlogic: meson
+* Ericsson MCDE: mcde
+* Exynos: exynos
+* Rockchip: rockchip
+* Tinydrm: tinydrm
+
+Fonte: https://en.opensuse.org/ARM_Mali_GPU
