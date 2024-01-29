@@ -24,12 +24,16 @@ Esta página estará em constante atualização, portanto, recomendo retornar se
 
 Para saber mais, navegue nas opções abaixo:
 
-- Roteiros de instalação
-  - BTV Express 10.
-  - BTV 11.
-  - HTV 6+.
-  - HTV 7.
-- [Personalizando a sua TV Box](https://github.com/lnrddev/tvbox/blob/main/documentacao/personalizacao.md).
+- Características das TV Box já descaracterizadas
+
+| Modelo         | Processador                  | GPU      | RAM  | Disco | Wifi         | Áudio HDMI |
+| -------------- | ---------------------------- | -------- | ---- | ----- | ------------ | :--------: |
+| BTV Express 10 | Amlogic S905X2 (Cortex A-53) | Mali-G31 | 2 Gb | 8 Gb  | 🚫 RTL8189FTV |     ✅      |
+| BTV 11         | Amlogic S905X3 (Cortex A-55) | Mali-G31 | 1 Gb | 16 Gb | ✅ AP6212     |     ✅      |
+| HTV 6+         | Amlogic S905X (Cortex A-53)  | Mali-450 | 2 Gb | 16 Gb | ✅ RTL8723BS  |     ✅      |
+| HTV 7          | Amlogic S905X3 (Cortex A-53) | Mali-G31 | 2 Gb | 16 Gb | ✅ RTL8822CS  |     ✅      |
+
+
 - [Divulgando o projeto](https://github.com/lnrddev/tvbox/blob/main/documentacao/divulgacao.md).
 
 **<p align="right">Prof. Leonardo Henrique Soares Damasceno</p>**
