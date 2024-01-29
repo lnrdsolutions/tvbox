@@ -28,27 +28,21 @@
 
 Para ativar o driver Mesa/Lima, alterar o arquivo /etc/X11/xorg.conf inserindo as informações a seguir.
 
-'Section "ServerFlags"
+```
+Section "ServerFlags"
+        Option  "AutoAddGPU" "off"
+        Option "Debug" "dmabuf_capable"
+ EndSection
 
-       Option  "AutoAddGPU" "off"
-       
-       Option "Debug" "dmabuf_capable"
-       
-EndSection
+ Section "OutputClass"
+        Identifier "Lima"
+        MatchDriver "<display DRM driver>"
+        Driver "modesetting"
+        Option "PrimaryGPU" "true"
+ EndSection
+```
 
-Section "OutputClass"
-
-       Identifier "Lima"
-       
-       MatchDriver "<display DRM driver>"
-       
-       Driver "modesetting"
-       
-       Option "PrimaryGPU" "true"
-       
-EndSection'
-
-Você deve substituir <display DRM driver> com seu respectivo driver, a depender de seu SoC:
+Você deve substituir ```"<display DRM driver>"``` com seu respectivo driver, a depender de seu SoC:
 
 * Allwinner: sun4i-drm
 * Amlogic: meson
