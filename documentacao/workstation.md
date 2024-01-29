@@ -61,6 +61,8 @@ Supondo que o arquivo com seu papel de parede esteja em /usr/share/wallpapers/wa
 
 ## Limpando o histórico do Terminal
 
-Para limpar o histórico do Terminal, execute o comando abaixo.
+Para limpar o histórico do Terminal, abra-o e execute o comando abaixo.
 
 `echo "" > ~/.bash_history`
+
+Feche o Terminal e abra novamente. O histórico estará limpo.
