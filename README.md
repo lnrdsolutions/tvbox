@@ -33,7 +33,7 @@ Na medida em que obtivermos sucesso para as diferentes configurações de equipa
 
 ## A plataforma EcoBoxHub
 
-A partir da descaracterização da TV Box, torna-se possível a aplicação do equipamento em diferentes finalidades, a saber: estação de trabalho (workstation), sinalização digital, plataforma de ensino de programação, automação e robótica, dentre outras.
+A partir da descaracterização da TV Box, torna-se possível a aplicação do equipamento em diferentes finalidades, a saber: estação de trabalho ([workstation](https://github.com/lnrddev/tvbox/blob/main/documentacao/workstation.md)), sinalização digital, plataforma de ensino de programação, automação e robótica, dentre outras.
 
 Para tanto, nossa equipe propõe cada equipamento como uma plataforma de desenvolvimento denominada EcoBoxHub, na qual diferentes aplicações são desenvolvidas para diversas finalidades. 
 
