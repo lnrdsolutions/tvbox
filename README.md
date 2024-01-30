@@ -24,12 +24,18 @@ Na medida em que obtivermos sucesso para as diferentes configurações de equipa
 
 *Processadores Amlogic*
 
-| Modelo         | Processador                  | GPU      | RAM  | Disco | Wifi         | Áudio HDMI |
-| -------------- | ---------------------------- | -------- | ---- | ----- | ------------ | :--------: |
-| BTV Express 10 | Amlogic S905X2 (Cortex A-53) | Mali-G31 | 2 Gb | 8 Gb  | 🚫 RTL8189FTV |     ✅      |
-| BTV 11         | Amlogic S905X3 (Cortex A-55) | Mali-G31 | 1 Gb | 16 Gb | ✅ AP6212     |     ✅      |
-| HTV 6+         | Amlogic S905X (Cortex A-53)  | Mali-450 | 2 Gb | 16 Gb | ✅ RTL8723BS  |     ✅      |
-| HTV 7          | Amlogic S905X3 (Cortex A-53) | Mali-G31 | 2 Gb | 16 Gb | ✅ RTL8822CS  |     ✅      |
+| Modelo         | Processador                  | GPU      | RAM  | Disco | Wifi         | Ethernet | Áudio HDMI |
+| :------------- | ---------------------------- | -------- | ---- | ----- | :----------- | :------: | :--------: |
+| BTV Express 10 | Amlogic S905X2 (Cortex A-53) | Mali-G31 | 2 Gb | 8 Gb  | 🚫 RTL8189FTV |    ✅     |     ✅      |
+| BTV 11         | Amlogic S905X3 (Cortex A-55) | Mali-G31 | 1 Gb | 16 Gb | ✅ AP6212     |    ✅     |     ✅      |
+| HTV 6+         | Amlogic S905X (Cortex A-53)  | Mali-450 | 2 Gb | 16 Gb | ✅ RTL8723BS  |    ✅     |     ✅      |
+| HTV 7          | Amlogic S905X3 (Cortex A-53) | Mali-G31 | 2 Gb | 16 Gb | ✅ RTL8822CS  |    ✅     |     ✅      |
+
+## A plataforma EcoBoxHub
+
+A partir da descaracterização da TV Box, torna-se possível a aplicação do equipamento em diferentes finalidades, a saber: estação de trabalho (workstation), sinalização digital, plataforma de ensino de programação, automação e robótica, dentre outras.
+
+Para tanto, nossa equipe propõe cada equipamento como uma plataforma de desenvolvimento denominada EcoBoxHub, na qual diferentes aplicações são desenvolvidas para diversas finalidades. 
 
 ## O projeto na mídia
 
@@ -48,7 +54,4 @@ Esta página estará em constante atualização, portanto, recomendo retornar se
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flnrddev%2Ftvbox&label=Visitantes&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flnrddev%2Ftvbox)
 [![name](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/553597686099)
 [![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
-
-
-
 
