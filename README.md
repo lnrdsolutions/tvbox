@@ -44,7 +44,7 @@ Para tanto, nossa equipe propõe cada equipamento como uma plataforma de desenvo
 
 ## Perguntas frequentes
 
-Para saber mais sobre o projeto, clique aqui.
+Para saber mais sobre o projeto, [clique aqui](https://github.com/lnrddev/tvbox/blob/main/documentacao/faq.md).
 
 Esta página estará em constante atualização, portanto, recomendo retornar sempre que possível para busca de novidades sobre o projeto.
 
