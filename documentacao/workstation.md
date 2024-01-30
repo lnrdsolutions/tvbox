@@ -1,10 +1,10 @@
-# **Alertas**
+# **Configuração como estação de trabalho (workstation)**
+
+## **Alertas**
 
 1. Estes protocolos foram testados em várias unidades sem nenhuma ocorrência negativa. Leia-os completamente antes de realizar qualquer procedimento para que não haja qualquer dúvida a respeito.
-2. Há o risco eventual de travamento e/ou perda da sua TV Box caso haja algum problema mais severo. Use por seu próprio risco. Não me responsabilizo por nenhum dano.
-3. Se o Armbian estiver instalado no seu pendrive ou cartão de memória, faz-se necessário aumentar o tamanho da partição de instalação para que seja possível baixar e instalar todos os aplicativos. Sugere-se o uso do Gparted em ambiente Linux para maior facilidade. Uma partição de 4 Gb normalmente é suficiente para a instalação.  Se estiver trabalhando diretamente na sua TV Box após a instalação, isto não se faz necessário.
-
-# **Roteiro - Configuração como estação de trabalho (workstation)**
+2. Há o risco eventual de travamento e/ou perda da sua TV Box caso haja algum problema mais severo. Use por seu próprio risco. Não nos responsabilizamos por nenhum dano.
+3. Se o Armbian estiver instalado no seu pendrive ou cartão de memória, pode ser necessário aumentar o tamanho da partição de instalação para que seja possível baixar e instalar todos os aplicativos. Sugere-se o uso do Gparted em ambiente Linux para maior facilidade. Uma partição de 4 Gb normalmente é suficiente para a instalação.  Se estiver trabalhando diretamente na sua TV Box após a instalação, não é necessária tal ação.
 
 ## Ambiente gráfico Mate
 
