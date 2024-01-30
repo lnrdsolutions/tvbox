@@ -6,13 +6,9 @@ Desde junho de 2022 desenvolvemos projeto de extensão com a Receita Federal do 
 
 O projeto está inserido no Programa Além do Horizonte, da Receita Federal, que participa da destinação sustentável de produtos apreendidos pela Instituição. Neste programa, há diferentes ações da RFB para reaproveitamentos de itens como TV Box, vestuários e cigarros que, após a devida descaracterização, são destinados de forma ambientalmente mais sustentável diferindo do produto original fruto de cada apreensão. Especificamente neste projeto, participamos de uma rede com diferentes Instituições de Ensino voltadas ao emprego de TV Box como computadores em escolas públicas, embora haja potencial para diferentes aplicações. O fluxograma utilizado é apresentado na Figura 1.
 
-
-
 ![fluxograma](https://github.com/lnrddev/tvbox/blob/main/images/fluxograma_apreensao_RF.jpeg?raw=true)
 
 Figura 1. Fluxograma do projeto para descaracterização de TV Box para escolas públicas.
-
-
 
 A abordagem inicial que utilizamos é a determinação das capacidades dos equipamentos apreendidos, para posterior avaliação em diferentes aplicações, como educação, ensino de programação, uso como desktop e sinalização digital. Outras aplicações estão sendo avaliadas e estarão disponíveis assim que devidamente estabelecidas.
 
@@ -46,6 +42,9 @@ Para tanto, nossa equipe propõe cada equipamento como uma plataforma de desenvo
 - [Reportagem da TV Plan - TV Box são transformadas em minicomputadores e destinadas à Prefeituras](https://www.youtube.com/watch?v=5mZmC_hQGf4).
 - [Reportagem do Jornal das Geraes - Municípios recebem minicomputadores doados pela Receita Federal](https://www.youtube.com/watch?v=JIyAsC1v9Sc).
 
+## Perguntas frequentes
+
+Para saber mais sobre o projeto, clique aqui.
 
 Esta página estará em constante atualização, portanto, recomendo retornar sempre que possível para busca de novidades sobre o projeto.
 
