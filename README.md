@@ -20,11 +20,7 @@ Os processadores utilizados em aparelhos de TV Box empregam a arquitetura ARM na
 
 Na medida em que obtivermos sucesso para as diferentes configurações de equipamentos, faremos a devida divulgação dos roteiros de instalação para que a proposta possa ser replicada em maior escala. Já efetuamos, até o presente momento, a entrega de aproximadamente 1500 unidades para Albertina, Andradas, Bandeira do Sul, Botelhos, Caldas, Campestre, Ibitiúra de Minas, Ipuiuna, Poços de Caldas, Santa Rita de Caldas, Alfenas, Alterosa, Areado, Campo do Meio, Campos Gerais, Carmo do Rio Claro, Carvalhópolis, Divisa Nova, Fama, Machado, Paraguaçu, Poço Fundo, Serrania, Frutal e Governador Valadares, todas no estado de Minas Gerais, além de dar o devido apoio às demais Instituições de Ensino envolvidas. Atualmente estamos descaracterizando próximo a mil unidades para o estado de Tocantis, visto o enorme potencial e demanda de equipamentos de TI no território brasileiro, notadamente em Instituições Públicas de ensino. Para qualquer dúvida, estamos à disposição no e-mail leonardo.damasceno at unifal-mg.edu.br. 
 
-Esta página estará em constante atualização, portanto, recomendo retornar sempre que possível para busca de novidades sobre o projeto.
-
-Para saber mais, navegue nas opções abaixo:
-
-- TV Box descaracterizadas
+## TV Box descaracterizadas
 
 *Processadores Amlogic*
 
@@ -35,8 +31,11 @@ Para saber mais, navegue nas opções abaixo:
 | HTV 6+         | Amlogic S905X (Cortex A-53)  | Mali-450 | 2 Gb | 16 Gb | ✅ RTL8723BS  |     ✅      |
 | HTV 7          | Amlogic S905X3 (Cortex A-53) | Mali-G31 | 2 Gb | 16 Gb | ✅ RTL8822CS  |     ✅      |
 
+## O projeto na mídia
 
 - [Divulgando o projeto](https://github.com/lnrddev/tvbox/blob/main/documentacao/divulgacao.md).
+
+Esta página estará em constante atualização, portanto, recomendo retornar sempre que possível para busca de novidades sobre o projeto.
 
 **<p align="right">Prof. Leonardo Henrique Soares Damasceno</p>**
 
