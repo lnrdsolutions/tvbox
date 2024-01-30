@@ -22,4 +22,4 @@ A princípio os equipamentos são destinados apenas a Instituições Públicas.
 
 ## É possível utilizar os equipamentos para atividades administrativas?
 
-Sim, os equipamentos possuem condições técnicas para desempenho adequado em tais situações.
+Sim, os equipamentos possuem condições técnicas para desempenho adequado neste cenário.
