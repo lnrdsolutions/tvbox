@@ -15,3 +15,7 @@ Tabela 1. Dados necessários à execução do protocolo de instalação
 
 ## Pré-requisitos
 
+1. Pendrive (8 Gb ou superior).
+2. Imagem ISO (Armbian ou EcoBoxHub). Selecione uma das duas disponíveis para seu modelo na Tabela 1.
+3. Software de gravação. Recomenda-se o Balena Etcher. [Clique aqui](https://www.balena.io/etcher/) para baixar e instalar na sua máquina.
+
