@@ -13,6 +13,8 @@ Tabela 1. Dados necessários à execução do protocolo de instalação
 | HTV 6+         | meson-gxl-s905x-p212.dtb (opção 106) | Em construção. | Em construção.   |
 | HTV 7          | Amlogic S905X3 (Cortex A-53)         | Em construção. | Em construção.   |
 
+Observação: a imagem EcoBoxHub corresponde à versão Workstation.
+
 ## Pré-requisitos
 
 1. Pendrive (8 Gb ou superior).
