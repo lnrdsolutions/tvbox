@@ -1,8 +1,8 @@
-# Guia de Instalação
+# Guia de Instalação - Processadores Amlogic (em construção)
 
 ## ⚠️ Informações iniciais
 
-
+Na Tabela 1 são apresentadas as informações técnicas para a instalação de cada modelo de TV Box descaracterizada, além das imagens originais do Armbian e as imagens desenvolvidas para a plataforma EcoBoxHub.
 
 Tabela 1. Dados necessários à execução do protocolo de instalação
 
@@ -14,3 +14,4 @@ Tabela 1. Dados necessários à execução do protocolo de instalação
 | HTV 7          | Amlogic S905X3 (Cortex A-53)         | Em construção. | Em construção.   |
 
 ## Pré-requisitos
+
