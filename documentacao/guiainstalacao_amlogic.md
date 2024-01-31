@@ -46,7 +46,7 @@ Tabela 1. Dados necessários à execução do protocolo de instalação
 12. Após o reinício, o equipamento aguardará no prompt do login do shell. Você pode logar com o nome e senha de usuário comum que definiu no passo 7.
 13. Lembre-se: a imagem utilizada nesse protocolo diz respeito à uma imagem *server*. Toda o ajuste de ferramentas adicionais deverá ser feito posteriormente, incluindo a parte gráfica. Essa escolha se deu pelas características dos equipamentos de TV Box, permitindo que você possa otimizar da forma que preferir. Qualquer dúvida, entre em contato por gentileza. Como sugestão, você pode seguir os procedimentos apresentados para a [configuração como estação de trabalho (workstation)](https://github.com/lnrddev/tvbox/blob/main/documentacao/workstation.md).
 
-## Instalação para a Imagem EcoHubBox
+## Instalação para a Imagem EcoBoxHub
 
 Em construção.
 
