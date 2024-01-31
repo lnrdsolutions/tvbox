@@ -20,16 +20,16 @@ Observação: a imagem EcoBoxHub corresponde à versão Workstation.
 1. Pendrive (8 Gb ou superior).
 2. Hub USB.
 3. Imagem ISO (Armbian ou EcoBoxHub). Selecione uma das duas disponíveis para seu modelo na Tabela 1.
-4. Software de gravação. Recomenda-se o Balena Etcher. [Clique aqui](https://www.balena.io/etcher/) para baixar e instalar na sua máquina.
+4. Aplicativo de gravação de imagens no pendrive. Recomenda-se o Balena Etcher. [Clique aqui](https://www.balena.io/etcher/) para baixar e instalar na sua máquina.
 
 ## Instalação para a Imagem original do Armbian
 
 1. Execute o Balena Etcher e transfira a imagem para o seu pendrive. 
-2. Após a transferência da imagem, remova-o com segurança, de acordo com os procedimentos compatíveis do seu sistema operacional.
+2. Após a transferência da imagem, remova-o com segurança, de acordo com os procedimentos compatíveis com seu sistema operacional.
 3. Reinsira o pendrive e abra a partição BOOT do pendrive.
 4. Abra o arquivo `uEnv.txt` e procure a linha que se inicia com `FTD=`. Você deve inserir o caminho do arquivo DTB de acordo com o que é apresentado na Tabela 1. Os arquivos DTB estão localizados na pasta `/dtb/amlogic/`. Como exemplo, para a *BTV Express 10*, `FDT=/dtb/amlogic/meson-g12a-sei510.dtb`. Salve o arquivo.
 5. Remova o pendrive com segurança conforme os procedimentos compatíveis com o seu sistema operacional.
-6. Insira o pendrive na TV Box. Ligue os cabos HDMI, ethernet e teclado. Antes de ligar a fonte de energia, faz-se necessário pressionar o botão RESET ou UPDATE com um clip por três segundos (conte de um a cinco). O procedimento é realizado apenas uma vez para ativar o multi-boot do equipamento. O sistema deverá iniciar pelo Armbian. Se entrar no sistema original da TV Box, refaça o procedimento.
+6. Insira o pendrive na TV Box. Ligue os cabos HDMI, ethernet e teclado. Ao inserir a fonte de energia, faz-se necessário pressionar concomitantemente o botão RESET ou UPDATE com um clip por três segundos (conte de um a cinco). O procedimento é realizado apenas uma vez para ativar o multi-boot do equipamento. O sistema deverá iniciar pelo Armbian. Se entrar no sistema original da TV Box, refaça o procedimento.
 7. Ao entrar no Armbian pela primeira vez será necessário fornecer:
    - Senha do root.
    - Shell a ser utilizado. Recomenda-se o bash.
