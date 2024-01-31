@@ -25,7 +25,7 @@ Na medida em que obtivermos sucesso para as diferentes configurações de equipa
 | BTV Express 10 | Amlogic S905X2 (Cortex A-53) | Mali-G31 | 2 Gb | 8 Gb  | 🚫 RTL8189FTV |    ✅     |     ✅      |
 | BTV 11         | Amlogic S905X3 (Cortex A-55) | Mali-G31 | 1 Gb | 16 Gb | ✅ AP6212     |    ✅     |     ✅      |
 | HTV 6+         | Amlogic S905X (Cortex A-53)  | Mali-450 | 2 Gb | 16 Gb | ✅ RTL8723BS  |    ✅     |     ✅      |
-| HTV 7          | Amlogic S905X3 (Cortex A-53) | Mali-G31 | 2 Gb | 16 Gb | ✅ RTL8822CS  |    ✅     |     ✅      |
+| HTV 7          | Amlogic S905X3 (Cortex A-55) | Mali-G31 | 2 Gb | 16 Gb | ✅ RTL8822CS  |    ✅     |     ✅      |
 
 Para saber mais a respeito dos protocolos de instalação, [clique aqui](https://github.com/lnrddev/tvbox/blob/main/documentacao/guiainstalacao_amlogic.md).
 
