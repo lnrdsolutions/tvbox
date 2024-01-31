@@ -11,7 +11,7 @@ Tabela 1. Dados necessários à execução do protocolo de instalação
 | BTV Express 10 | meson-g12a-sei510.dtb (opção 303)    | Em construção. | Em construção.   |
 | BTV 11         | Amlogic S905X3 (Cortex A-55)         | Em construção. | Em construção.   |
 | HTV 6+         | meson-gxl-s905x-p212.dtb (opção 106) | Em construção. | Em construção.   |
-| HTV 7          | Amlogic S905X3 (Cortex A-53)         | Em construção. | Em construção.   |
+| HTV 7          | Amlogic S905X3 (Cortex A-55)         | Em construção. | Em construção.   |
 
 Observação: a imagem EcoBoxHub corresponde à versão Workstation.
 
@@ -51,9 +51,9 @@ Em construção.
 Observação: este procedimento irá apagar todo o conteúdo do equipamento. Por serem sistemas ilegais, não apresentaremos aqui qualquer procedimento para realização de cópias dos sistemas originais.
 
 1. No terminal, execute `sudo armbian-install`.
-2. Forneça o código correspondente ao arquivo DTB necessário para seu equipamento. As opções são apresentadas na Tabela 1, junto com o nome dos arquivos DTV. Como exemplo, para a *BTV Express 10*, o arquivo *meson-g12a-sei510.dtb* corresponde à opção 303.
+2. Forneça o código correspondente ao arquivo DTB necessário para seu equipamento. As opções são apresentadas na Tabela 1, junto com o nome dos arquivos DTB. Como exemplo, para a *BTV Express 10*, o arquivo *meson-g12a-sei510.dtb* corresponde à opção 303.
 3. Escolha o formato de arquivos a ser utilizado. Sugerimos o formato `ext4` por sua maior estabilidade.
 4. Aguarde a instalação.
-5. Após a instalação, execute o arquivo `sudo shutdown -h now`. Aguarde o equipamento desligar.
+5. Após a instalação, execute o comando `sudo shutdown -h now`. Aguarde o equipamento desligar.
 6. Remova o pendrive, retire a fonte de energia e reinsira.
-7. Aguarde o Armbian iniciar, agora diretamente na sua TV Box.
+7. Aguarde o Armbian iniciar, agora diretamente da sua TV Box.
