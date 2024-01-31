@@ -17,11 +17,12 @@ Tabela 1. Dados necessários à execução do protocolo de instalação
 
 1. A imagem Armbian corresponde ao Debian Bookworm.
 2. A imagem EcoBoxHub corresponde à versão Workstation.
+3. As imagens foram obtidas em https://github.com/ophub/amlogic-s9xxx-armbian/releases.
 
 ## Requisitos
 
 1. Pendrive (8 Gb ou superior).
-2. Hub USB.
+2. Hub USB (caso vá trabalhar com o ambiente gráfico).
 3. Imagem ISO (Armbian ou EcoBoxHub). Selecione uma das duas disponíveis para seu modelo na Tabela 1.
 4. Aplicativo de gravação de imagens no pendrive. Recomenda-se o Balena Etcher. [Clique aqui](https://www.balena.io/etcher/) para baixar e instalar na sua máquina.
 
