@@ -6,14 +6,17 @@ Na Tabela 1 são apresentadas as informações técnicas para a instalação de 
 
 Tabela 1. Dados necessários à execução do protocolo de instalação
 
-| Modelo         | Arquivo DTB                          | Imagem Armbian | Imagem EcoBoxHub |
-| :------------- | ------------------------------------ | -------------- | ---------------- |
-| BTV Express 10 | meson-g12a-sei510.dtb (opção 303)    | Em construção. | Em construção.   |
-| BTV 11         | meson-sm1-x96-air.dtb (opção 510)    | Em construção. | Em construção.   |
-| HTV 6+         | meson-gxl-s905x-p212.dtb (opção 106) | Em construção. | Em construção.   |
-| HTV 7          | meson-sm1-x96-air.dtb (opção 510)    | Em construção. | Em construção.   |
+| Modelo         | Arquivo DTB                          | Imagem Armbian                                               | Imagem EcoBoxHub |
+| :------------- | ------------------------------------ | ------------------------------------------------------------ | ---------------- |
+| BTV Express 10 | meson-g12a-sei510.dtb (opção 303)    | Em construção.                                               | Em construção.   |
+| BTV 11         | meson-sm1-x96-air.dtb (opção 510)    | [Armbian 24.2.0 - Debian Bookworm - Kernel 6.1.74 - Versão Server - 2024.01.25](https://drive.google.com/file/d/1gY52OXq8zVdpLazQ7xd9gcl4zHdtOirl/view?usp=sharing) | Em construção.   |
+| HTV 6+         | meson-gxl-s905x-p212.dtb (opção 106) | Em construção.                                               | Em construção.   |
+| HTV 7          | meson-sm1-x96-air.dtb (opção 510)    | [Armbian 24.2.0 - Debian Bookworm - Kernel 6.1.74 - Versão Server - 2024.01.25](https://drive.google.com/file/d/1gY52OXq8zVdpLazQ7xd9gcl4zHdtOirl/view?usp=sharing) | Em construção.   |
 
-Observação: a imagem EcoBoxHub corresponde à versão Workstation.
+*Observações:*
+
+1. A imagem Armbian corresponde ao Debian Bookworm.
+2. A imagem EcoBoxHub corresponde à versão Workstation.
 
 ## Requisitos
 
