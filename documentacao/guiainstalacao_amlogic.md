@@ -42,6 +42,10 @@ Observação: a imagem EcoBoxHub corresponde à versão Workstation.
 12. Após o reinício, o equipamento aguardará no prompt do login do shell. Você pode logar com o nome e senha de usuário comum que definiu no passo 7.
 13. Lembre-se: a imagem utilizada nesse protocolo diz respeito à uma imagem *server*. Toda o ajuste de ferramentas adicionais deverá ser feito posteriormente, incluindo a parte gráfica. Essa escolha se deu pelas características dos equipamentos de TV Box, permitindo que você possa otimizar da forma que preferir. Qualquer dúvida, entre em contato por gentileza. Como sugestão, você pode seguir os procedimentos apresentados para a configuração como estação de trabalho (workstation).
 
+## Instalação para a Imagem EcoHubBox
+
+Em construção.
+
 ## Transferindo a imagem do pendrive para a TV Box
 
 Observação: este procedimento irá apagar todo o conteúdo do equipamento. Por serem sistemas ilegais, não apresentaremos aqui qualquer procedimento para realização de cópias dos sistemas originais.
