@@ -27,6 +27,8 @@ Na medida em que obtivermos sucesso para as diferentes configurações de equipa
 | HTV 6+         | Amlogic S905X (Cortex A-53)  | Mali-450 | 2 Gb | 16 Gb | ✅ RTL8723BS  |    ✅     |     ✅      |
 | HTV 7          | Amlogic S905X3 (Cortex A-53) | Mali-G31 | 2 Gb | 16 Gb | ✅ RTL8822CS  |    ✅     |     ✅      |
 
+Para saber mais a respeito dos protocolos de instalação, [clique aqui](https://github.com/lnrddev/tvbox/blob/main/documentacao/guiainstalacao_amlogic.md).
+
 ## A plataforma EcoBoxHub
 
 A partir da descaracterização da TV Box, torna-se possível a aplicação do equipamento em diferentes finalidades, a saber: estação de trabalho ([workstation](https://github.com/lnrddev/tvbox/blob/main/documentacao/workstation.md)), sinalização digital, plataforma de ensino de programação, automação e robótica, dentre outras.
