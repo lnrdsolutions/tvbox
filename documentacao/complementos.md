@@ -1,5 +1,11 @@
 # Informações complementares
 
+## Alterando o papel de parede na inicialização
+
+Supondo que o arquivo com seu papel de parede esteja em /usr/share/wallpapers/wallpaper.png, execute o comando abaixo na Inicialização do sistema.
+
+`dconf write /org/mate/desktop/background/picture-filename "'/usr/share/wallpapers/wallpaper.png'"`
+
 ## Gerar imagem do pendrive/cartão excluindo espaços em branco.
 
 ### Cenário
