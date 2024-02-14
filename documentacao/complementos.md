@@ -1,22 +1,16 @@
-# Gerar imagem do pendrive/cartão excluindo espaços em branco.
+# Informações complementares
 
+## Gerar imagem do pendrive/cartão excluindo espaços em branco.
 
-
-## Cenário
+### Cenário
 
 Pendrive/cartão com aproximadamente 58 Gb de espaço total, contendo duas partições cuja soma se aproxima de 6,3 Gb com  51,7 Gb de espaço não alocado.
 
 Em condição normais a cópia do pendrive/cartão seria realizada considerando o tamanho total do disco (58 Gb), e não somente a soma das duas partições (6,3 Gb).
 
-
-
-## Procedimento
-
-
+### Procedimento
 
 Executar `fdisk -l` no Terminal. A saída do comando será semelhante ao apresentado abaixo.
-
-
 
 ```
 Disk /dev/mmcblk0: 57.9 GiB, 62115545088 bytes, 121319424 sectors
@@ -31,8 +25,6 @@ Device         Boot  Start      End  Sectors  Size Id Type
 /dev/mmcblk0p2      532480 13332479 12800000  6.1G 83 Linux
 ```
 
-
-
 Supondo que o cartão/pendrive a ser clonado esteja em **mmcblk0**, o setor final da partição é o **13332479**.
 
 Adicione um setor a este valor, ou seja, 13332479+1 = **13332480**.
@@ -42,8 +34,6 @@ Multiplique pelo número de bytes por setor (512 bytes/setor), 13332480x512 = **
 Insira o valor na opção `count=` no comando. Assim, supondo que o nome do arquivo de imagem que deseja criar seja `imagem.iso`, execute o comando abaixo.
 
 ```dd if=/dev/mmcblk0 of="imagem.iso" count=6826229760 status=progress iflag=count_bytes```
-
-
 
 **Observação**
 
