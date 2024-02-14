@@ -17,6 +17,10 @@ Supondo que o arquivo com seu papel de parede esteja em /usr/share/wallpapers/wa
 4. Salve o arquivo pressionando simultaneamente Ctrl+O.
 5. Execute **sudo reboot** (pode ser necessário fornecer a sua senha de usuário comum).
 
+## Configurando o teclado
+
+1. Para configurar o teclado, digite o comando **sudo armbian-config** (pode ser necessário fornecer a sua senha de usuário comum). Escolha **Personal**, **Keyboard**. Em seguida, escolha as configurações mais adequadas ao equipamentos que será utilizado.
+
 ## Gerar imagem do pendrive/cartão excluindo espaços em branco.
 
 ### Cenário
