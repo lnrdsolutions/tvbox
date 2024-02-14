@@ -53,12 +53,3 @@ Você deve substituir ```"<display DRM driver>"``` com seu respectivo driver, a 
 
 Fonte: https://en.opensuse.org/ARM_Mali_GPU
 
-
-
-## Limpando o histórico do Terminal
-
-Para limpar o histórico do Terminal, abra-o e execute o comando abaixo.
-
-`echo "" > ~/.bash_history`
-
-Feche o Terminal e abra novamente. O histórico estará limpo.
