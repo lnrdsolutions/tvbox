@@ -56,3 +56,9 @@ Esta página estará em constante atualização, portanto, recomendo retornar se
 [![name](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/553597686099)
 [![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 
+
+<center> 
+  <a href="https://www.instagram.com/projeto.lapse/">
+    <img src="https://lnrd.dev/home/wp-content/uploads/2024/02/lapse_logotipo.png" alt="Projeto LAPSE!" width="30%" height="30%">
+  </a> 
+</center>
