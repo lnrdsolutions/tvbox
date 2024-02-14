@@ -6,6 +6,8 @@
 2. Há o risco eventual de travamento e/ou perda da sua TV Box caso haja algum problema mais severo. Use por seu próprio risco. Não nos responsabilizamos por nenhum dano.
 3. Se o Armbian estiver instalado no seu pendrive ou cartão de memória, pode ser necessário aumentar o tamanho da partição de instalação para que seja possível baixar e instalar todos os aplicativos. Sugere-se o uso do Gparted em ambiente Linux para maior facilidade. Uma partição de 4 Gb normalmente é suficiente para a instalação.  Se estiver trabalhando diretamente na sua TV Box após a instalação, não é necessária tal ação.
 
+![banner](https://github.com/lnrddev/tvbox/blob/main/images/banner_lnrd_tvbox.png?raw=true)
+
 ## Ambiente gráfico Mate
 
 `sudo apt install task-mate-desktop lightdm-gtk-greeter`
