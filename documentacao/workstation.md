@@ -53,11 +53,7 @@ Você deve substituir ```"<display DRM driver>"``` com seu respectivo driver, a 
 
 Fonte: https://en.opensuse.org/ARM_Mali_GPU
 
-## Alterando o papel de parede na inicialização
 
-Supondo que o arquivo com seu papel de parede esteja em /usr/share/wallpapers/wallpaper.png, execute o comando abaixo na Inicialização do sistema.
-
-`dconf write /org/mate/desktop/background/picture-filename "'/usr/share/wallpapers/wallpaper.png'"`
 
 ## Limpando o histórico do Terminal
 
