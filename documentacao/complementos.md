@@ -44,3 +44,11 @@ Insira o valor na opção `count=` no comando. Assim, supondo que o nome do arqu
 **Observação**
 
 Se a partição **/dev/mmcblk0p2** de 6,1 Gb possuísse 2 Gb de espaço não utilizado, por exemplo, você poderia reduzir o seu tamanho utilizando o aplicativo [Gparted](https://gparted.org/), otimizando ainda mais o tamanho final do arquivo ISO.
+
+## Limpando o histórico do Terminal
+
+Para limpar o histórico do Terminal, abra-o e execute o comando abaixo.
+
+`echo "" > ~/.bash_history`
+
+Feche o Terminal e abra novamente. O histórico estará limpo.
