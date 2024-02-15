@@ -1,5 +1,17 @@
 # Informações complementares
 
+## Alteração das senhas do root e do usuário comum
+
+1. Para alterar a senha do usuário **tvboxreceita**, execute o comando abaixo.
+
+`sudo passwd tvboxreceita`
+
+2. Se você quer alterar a senha do **root**, execute o comando abaixo.
+
+`sudo passwd`
+
+Em ambos os casos você deverá inserir a senha duas vezes.
+
 ## Alterando o papel de parede na inicialização
 
 1. Supondo que o arquivo com seu papel de parede esteja em /usr/share/wallpapers/wallpaper.png, execute o comando abaixo na Inicialização do sistema.
