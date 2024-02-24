@@ -57,9 +57,5 @@ Esta página estará em constante atualização, portanto, recomendo retornar se
 [![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 
 
-<center> 
-
-<a href='https://www.lnrd.dev/adserver/www/delivery/ck.php?n=a0902d0b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://www.lnrd.dev/adserver/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0902d0b' border='0' alt='' /></a>
-
-</center>
+<center> <a href='https://www.lnrd.dev/adserver/www/delivery/ck.php?n=a5dcdb97&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://www.lnrd.dev/adserver/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5dcdb97' border='0' alt='' /></a></center>
 
