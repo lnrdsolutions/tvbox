@@ -58,7 +58,8 @@ Esta página estará em constante atualização, portanto, recomendo retornar se
 
 
 <center> 
-  <a href="https://www.instagram.com/projeto.lapse/">
-    <img src="https://lnrd.dev/home/wp-content/uploads/2024/02/lapse_logotipo.png" alt="Projeto LAPSE!" width="30%" height="30%">
-  </a> 
+
+<a href='https://www.lnrd.dev/adserver/www/delivery/ck.php?n=a0902d0b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://www.lnrd.dev/adserver/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0902d0b' border='0' alt='' /></a>
+
 </center>
+
